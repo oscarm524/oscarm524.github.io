@@ -1,1 +1,11 @@
 theme: jekyll-theme-cayman
+main_url: https://oscarm524.github.io
+name: Oscar Aguilar
+main_links:
+  github: https://github.com/oscarm524
+  linkedin: https://www.linkedin.com/in/oscar-aguilar-1a655b148/
+disqus:
+  shortname: Oscar Aguilar
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
