@@ -1,8 +1,6 @@
 ---
 layout: home
 title: Oscar Aguilar
-mathjax: false
-jquery: true
 ---
 
 ## About me
