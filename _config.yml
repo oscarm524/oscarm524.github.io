@@ -2,8 +2,9 @@ theme: jekyll-theme-cayman
 main_url: https://oscarm524.github.io
 title: Oscar Aguilar
 description: Personal Website
-github: https://github.com/oscarm524
-linkedin: https://www.linkedin.com/in/oscar-aguilar-1a655b148/
+site.pages: 
+  github: https://github.com/oscarm524
+  linkedin: https://www.linkedin.com/in/oscar-aguilar-1a655b148/
 markdown: kramdown
 plugins:
   - jekyll-seo-tag
