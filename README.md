@@ -1,6 +1,9 @@
 ## About me
 I'm a senior analytics consultant at [Principal](https://www.principal.com/) and a assitant professor of analytics at [Grand View University](https://www.grandview.edu/).
 
+## Areas of Interest
+I'm
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/oscarm524/oscarm524.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
