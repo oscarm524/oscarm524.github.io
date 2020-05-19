@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
 main_url: https://oscarm524.github.io
-name: Oscar Aguilar
+title: Oscar Aguilar
+description: Personal Website for Personal Projects
 main_links:
   github: https://github.com/oscarm524
   linkedin: https://www.linkedin.com/in/oscar-aguilar-1a655b148/
