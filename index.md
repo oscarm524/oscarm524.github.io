@@ -8,10 +8,13 @@ I'm a senior analytics consultant at [Principal](https://www.principal.com/) and
 I'm passionate about solving real-life problem with data and algorithms. I'm interested in applied statistics, quantitative finance, applied machine learning, and consulting. The following are projects that I'm developing.
 
 ### [**Machine-Learning**](https://github.com/oscarm524/Machine-Learning)
+<div><span class="dot python-dot"></span> A code repository for machine learning models and frameworks</div>
 
 ### [**Math-Finance**](https://github.com/oscarm524/Math-Finance)
+<div><span class="dot python-dot"></span> A code repository for math-finance methodology</div>
 
 ### [**Time-Series**](https://github.com/oscarm524/Time-Series)
+<div><span class="dot python-dot"></span> A code repository for machine learning frameworks for time-series data</div>
 
 ## Fun Activities
 
